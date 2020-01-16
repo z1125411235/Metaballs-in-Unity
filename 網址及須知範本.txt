@@ -1,0 +1,7 @@
+版本:Unity 5.6.6f2 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b663e41d7f10a201ffa9410?fbclid=IwAR0y3MvOIujrquLKErD9JBGCovOLoPDz2bNlfca6N82NWffYFnHKc_shLqg
+
+官方Github網址__https://github.com/dario-zubovic/metaballs
+
+本人Github網址__https://github.com/z1125411235/Metaballs-in-Unity
